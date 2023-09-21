@@ -1,5 +1,10 @@
-### Hola, soy Cristian Camilo Poveda 👋
+<h1 align="center"><b>Hola, soy Cristian Camilo Poveda 👋<h1>
+
+<center>
+
 ![](CCPOVEDA.png)
+
+</center>
 
 <!--
 **CRISTIAN3322/CRISTIAN3322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
